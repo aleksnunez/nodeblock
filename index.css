@@ -1,10 +1,11 @@
 html {
     background-color: rgb(227, 203, 172);
-    font-family: 'Abril Fatface', cursive;
+    
 }
 
 #header {
     color: rgb(15, 75, 55);
+    font-family: 'Abril Fatface', cursive;
 }
 
 .center {
